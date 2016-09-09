@@ -1,0 +1,13 @@
+body{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.form-jobapp{
+    color:#333;
+}
+
+.jobapp-container{
+    margin-top: 10%;
+    background: #fafafa;
+    color: #6d6d6d;
+    padding: 10px;
+}
